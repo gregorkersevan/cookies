@@ -29,15 +29,15 @@
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
-    "@angular/common": "^6.1.10",
-    "@angular/compiler": "^6.1.10",
-    "@angular/compiler-cli": "^6.1.10",
-    "@angular/core": "^6.1.0",
+    "@angular/common": "^7.1.1",
+    "@angular/compiler": "^7.1.1",
+    "@angular/compiler-cli": "^7.1.1",
+    "@angular/core": "^7.1.1",
     "cpy-cli": "*",
     "rimraf": "*",
     "rollup": "*",
     "rxjs": "^6.0.0",
-    "typescript": "2.9.x" ,
+    "typescript": "3.1.6",
     "uglify-js": "*",
     "zone.js": "^0.8.19"
   },
